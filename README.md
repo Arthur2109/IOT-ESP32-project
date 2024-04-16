@@ -16,8 +16,8 @@ Architecture of the server:
 
     Backend server: index.js (the one to run in your terminal)
     Frontend: script.js
-    html interaction page: index.html
-    request language used: Jquery
+    UI: index.html
+    Real time request framework: Jquery
 
 Architecture of ESP32 program:
 
